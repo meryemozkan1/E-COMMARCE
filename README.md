@@ -15,4 +15,3 @@ Bu depo, bir responsive yapıda geliştirilmiş e-ticaret platformu projesi içe
 <h1>Ekran Görüntüsü </h1>
 
 ![](e-commarce.gif)
-
